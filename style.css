@@ -21,3 +21,43 @@
 .sticky + .content {
   padding-top: 102px;
 } 
+
+
+body {
+	font-family: helvetica, arial, sans-serif;
+	max-width: 720px;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: auto;
+	line-height: 1.4;
+	background: white;
+}
+
+#header {
+	font-family: helvetica, arial, sans-serif;
+	margin: auto;
+}
+
+.strona {
+	text-align: center; 
+	margin: auto;
+}
+
+.posty {
+	text-align: left;
+}
+
+.photo {
+	max-width: 850px; !important
+}
+
+img {
+	padding-top:15px;
+	padding-bottom: 15px;
+	max-width: 100%;
+}
+
+/*.logo {
+	padding: 0px; !important
+}*/
